@@ -1,38 +1,37 @@
-﻿Products,Months,Item Sold
-Ipad,Apr,40
-Ipad,Aug,45
-Ipad,Aug ,45
-Ipad,Dec,44
-Ipad,Feb,55
-Ipad,Jan,50
-Ipad,Jul,39
-Ipad,Jun,30
-Ipad,Mar,51
-Ipad,May,45o
-Ipad,Nov,48
-Ipad,Oct,39
-Ipad,Sep,56
-Playstation 5,Apr,80
-Playstation 5,Aug,90
-Playstation 5,Dec,80
-Playstation 5,Feb,199
-Playstation 5,Jan,180
-Playstation 5,July,85
-Playstation 5,June,65
-Playstation 5,Mar,93
-Playstation 5,May,70
-Playstation 5,Nov,65
-Playstation 5,Oct,75
-Playstation 5,Sep,80
-Smart Phone,Apr,75
-Smart Phone,Aug,75
-Smart Phone,Dec,75
-Smart Phone,Feb,60
-Smart Phone,Jan,100
-Smart Phone,Jul,95
-Smart Phone,Jun,60
-Smart Phone,Mar,95
-Smart Phone,May,100
-Smart Phone,Nov,109
-Smart Phone,Oct,80
-Smart Phone,Sep,109
+﻿Products,Months,Item Sold,,,,,,,
+Ipad,Jan,50,3.25,,,,,,
+Ipad,Feb,55,,,Sum of Item Sold,Column Labels,,,
+Ipad,Mar,51,,,Row Labels,Ipad,Playstation 5,Smart Phone,Grand Total
+Ipad,Apr,40,,,Jan,50,180,100,330
+Ipad,May,45,,,Feb,55,199,60,314
+Ipad,Jun,30,,,Mar,51,93,95,239
+Ipad,Jul,39,,,Apr,40,80,75,195
+Ipad,Aug,45,,,May,45,70,100,215
+Ipad,Sep,56,,,Jun,30,65,60,155
+Ipad,Oct,39,,,Jul,39,85,95,219
+Ipad,Nov,48,,,Aug,45,90,75,210
+Ipad,Dec,44,,,Sep,56,80,109,245
+Playstation 5,Jan,180,,,Oct,39,75,80,194
+Playstation 5,Feb,199,,,Nov,48,65,109,222
+Playstation 5,Mar,93,,,Dec,44,80,75,199
+Playstation 5,Apr,80,,,Grand Total,542,1162,1033,2737
+Playstation 5,May,70,,,,,,,
+Playstation 5,Aug,90,,,,,,,
+Playstation 5,Sep,80,,,,,,,
+Playstation 5,Oct,75,,,,,,,
+Playstation 5,Nov,65,,,,,,,
+Playstation 5,Dec,80,,,,,,,
+Playstation 5,Jul,85,,,,,,,
+Playstation 5,Jun,65,,,,,,,
+Smart Phone,Jan,100,,,,,,,
+Smart Phone,Feb,60,,,,,,,
+Smart Phone,Mar,95,,,,,,,
+Smart Phone,Apr,75,,,,,,,
+Smart Phone,May,100,,,,,,,
+Smart Phone,Jun,60,,,,,,,
+Smart Phone,Jul,95,,,,,,,
+Smart Phone,Aug,75,,,,,,,
+Smart Phone,Sep,109,,,,,,,
+Smart Phone,Oct,80,,,,,,,
+Smart Phone,Nov,109,,,,,,,
+Smart Phone,Dec,75,,,,,,,
